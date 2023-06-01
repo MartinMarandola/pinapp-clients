@@ -1,4 +1,6 @@
 # PinApp Clients API
+This is a JAVA Api Rest for clients. It includes the following features:
+
 IDE Setup
 The default IDE for this project is IntelliJ.
 
